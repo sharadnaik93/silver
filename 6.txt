@@ -1,4 +1,0 @@
-this is a file created to check the command
-
-git stash
-
