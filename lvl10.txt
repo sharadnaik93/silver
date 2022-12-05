@@ -1,2 +1,5 @@
 hello this is new file in tnt
 with lvl 10 confign
+
+
+added this line from git hub
