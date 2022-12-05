@@ -7,3 +7,5 @@ this is added to check the Fetch command
 when i push this to local repository and edit from github accont
 
 above line added from the ubuntu system.
+
+this line is added from the github account try to fetch command 
